@@ -61,7 +61,7 @@
 				; if your smtp server requires authentication, modify the following two lines
 
 				auth_username=johnmichaelyabut@gmail.com // email
-				auth_password=nhojutahn_09 // password
+				auth_password=secretbelat:P // password
 
 				; if your smtp server uses pop3 before smtp authentication, modify the 
 				; following three lines.  do not enable unless it is required.
